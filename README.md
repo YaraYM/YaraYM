@@ -6,13 +6,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaraym0408@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517992462843)
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaraym&theme=radical" />
 </a>
+-->
 <a href="https://github.com/y/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaraym&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </a>
+
 
 ## Tecnologias que eu uso
 
